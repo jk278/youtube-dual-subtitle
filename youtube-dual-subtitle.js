@@ -2,8 +2,6 @@
 // @name         Youtube dual subtitle / Youtube 双语字幕全平台
 // @version      2.0.0
 // @description  Youtube double language subtitle / Youtube 双语字幕。移动端（mobile）修复，双端适用。
-// 如果不能自动加载，请关闭字幕再次打开即可。默认语言为浏览器首选语言。
-// 项目开源地址：https://github.com/jk278/youtube-dual-subtitle
 // @author       Coink & BITO
 // @match        *://www.youtube.com/watch?v=*
 // @match        *://www.youtube.com
@@ -14,6 +12,12 @@
 // @require      https://unpkg.com/ajax-hook@2.1.3/dist/ajaxhook.min.js
 // @grant        none
 // ==/UserScript==
+
+/*
+如果不能自动加载，请关闭字幕再次打开即可。默认语言为浏览器首选语言。
+项目开源地址：https://github.com/jk278/youtube-dual-subtitle
+*/
+
 (function () {
     'use strict';
      // 检测浏览器首选语言，如果没有，设置为英语
