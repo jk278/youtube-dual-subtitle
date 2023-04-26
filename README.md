@@ -13,6 +13,7 @@ Youtube 双语字幕。移动端（mobile）修复，双端适用，而且支持
 那么恭喜你，这个脚本为你量身定制！
 
 油猴脚本地址：[Youtube 双语字幕全平台](https://greasyfork.org/zh-CN/scripts/464879-youtube-dual-subtitle-youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95%E5%85%A8%E5%B9%B3%E5%8F%B0)
+（推荐，可以自动更新）
 
 **如果未自动加载，请切换字幕或关闭后再打开即可。**
 
