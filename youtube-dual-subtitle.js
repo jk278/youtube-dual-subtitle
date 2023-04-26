@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Youtube dual subtitle / Youtube 双语字幕全平台
 // @version      2.0.0
-// @description  Youtube double language subtitle / Youtube 双语字幕。移动端（mobile）修复，双端适用，而且支持 via 浏览器。
+// @description  Youtube double language subtitle / Youtube 双语字幕。移动端（mobile）修复，双端适用，而且支持 Via 浏览器。
 // @author       Coink & BITO
 // @match        *://www.youtube.com/watch?v=*
 // @match        *://www.youtube.com
