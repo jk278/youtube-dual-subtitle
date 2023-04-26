@@ -11,4 +11,4 @@ Youtube 双语字幕。移动端（mobile）修复，双端适用
 
 那么恭喜你，这个脚本为你量身定制！
 
-原作者：Coink [Youtube 双语字幕](https://greasyfork.org/zh-CN/scripts/397363-youtube-double-language-subtitle-youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95)
+原作者：Coink - [Youtube 双语字幕](https://greasyfork.org/zh-CN/scripts/397363-youtube-double-language-subtitle-youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95)
