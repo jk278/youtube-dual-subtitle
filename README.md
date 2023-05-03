@@ -1,4 +1,4 @@
-# Youtube dual subtitle / Youtube 双语字幕全平台
+# Youtube 双语字幕全平台
 
 Youtube 双语字幕。移动端（mobile）修复，双端适用，而且支持 Via 浏览器。
 
@@ -16,5 +16,7 @@ Youtube 双语字幕。移动端（mobile）修复，双端适用，而且支持
 （推荐，可以自动更新）<!-- Github 风格 Markdown 直接回车不换行，空一行才换行 -->
 
 **如果未自动加载，请切换字幕或关闭后再打开即可。**
+
+*PS: 本来在做记忆字幕选择的功能，但是最近比较懒，就一直拖着的，如果你需要这个功能，请告诉我。*
 
 原作者：Coink - [Youtube 双语字幕](https://greasyfork.org/zh-CN/scripts/397363-youtube-double-language-subtitle-youtube-%E5%8F%8C%E8%AF%AD%E5%AD%97%E5%B9%95)
